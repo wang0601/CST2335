@@ -13,15 +13,18 @@
         android:layout_columnWeight="1"
         android:gravity="fill"/>
     <CheckBox
+        android:id="@+id/checkBox"
         android:text="@string/CheckBox"
         android:layout_columnWeight="1"
         android:gravity="fill"/>
     <Switch
+        android:id="@+id/switchButton"
         android:text="@string/Switch"
         android:layout_columnWeight="1"
         android:gravity="fill"/>
 
     <ImageButton
+        android:id="@+id/imgButton"
         android:contentDescription="@string/ImageButton"
         android:src="@android:drawable/ic_menu_camera"
         android:layout_columnWeight="1"

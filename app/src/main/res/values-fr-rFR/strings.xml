@@ -9,4 +9,7 @@
     <string name="CheckBox">case à cocher</string>
     <string name="Switch">Qu\'est-ce que ça fait?</string>
     <string name="ImageButton"/>
+    <string name="dialog_message">Terminer l\'activité?</string>
+    <string name="ok">D\'accord</string>
+    <string name="cancel">Annuler</string>
 </resources>

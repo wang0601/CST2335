@@ -8,4 +8,7 @@
     <string name="CheckBox">CheckBox</string>
     <string name="Switch">What does this do?</string>
     <string name="ImageButton"/>
+    <string name="dialog_message">Finish activity?</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
 </resources>
