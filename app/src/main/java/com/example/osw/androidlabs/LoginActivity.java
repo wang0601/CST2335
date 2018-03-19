@@ -88,11 +88,11 @@ public class LoginActivity extends Activity {
     }
 
 
-    private void savePref(View view){
+    //private void savePref(View view){
        /* String s = email.getText().toString();
 
         SharedPreferences.Editor edit = sharedPref.edit();
         edit.putString(defaultEmail, s);
         edit.commit();*/
     }
-}
+
