@@ -13,4 +13,5 @@
     <string name="cancel">Cancel</string>
     <string name="chat">Start Chat</string>
     <string name="send">Send</string>
+    <string name="weatherForecast">Weather Forecast</string>
 </resources>
