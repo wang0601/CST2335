@@ -14,4 +14,8 @@
     <string name="chat">Start Chat</string>
     <string name="send">Send</string>
     <string name="weatherForecast">Weather Forecast</string>
+    <string name="deleteButton">Delete this message</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
